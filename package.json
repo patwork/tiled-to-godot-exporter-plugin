@@ -1,0 +1,8 @@
+{
+  "name": "tiled-to-godot-exporter-plugin",
+  "version": "0.0.1",
+  "description": "Plugin for Tiled Map Editor to export tilemaps and tilesets as Godot Engine scene files",
+  "author": "patwork@gmail.com",
+  "repository": "https://github.com/patwork/tiled-to-godot-exporter-plugin",
+  "license": "MIT"
+}
